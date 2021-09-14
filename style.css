@@ -6,3 +6,7 @@
      -moz-column-width: 200px;
           column-width: 200px;
 }
+
+p {
+  text-align: justify;
+}
